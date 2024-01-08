@@ -97,3 +97,10 @@ main {
 .movie:hover .Overview {
     transform: translateY(0);
 }
+.logo img {
+    align-items: center;
+    width: 160px;
+    float: left;
+    margin-right: 1020px;
+}    
+  
