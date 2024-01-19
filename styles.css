@@ -2,7 +2,7 @@
 
 :root {
     --primary-color: #282e3b;
-    --secondary-color: #313a3e;
+    --secondary-color: #374145;
 }
 *{
     box-sizing: border-box;
@@ -99,8 +99,8 @@ main {
 }
 .logo img {
     align-items: center;
-    width: 170px;
+    width: 180px;
     float: left;
-    margin-right: 1020px;
+    margin-right: 1030px;
 }    
   
